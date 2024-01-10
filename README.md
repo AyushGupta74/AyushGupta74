@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta74" alt="ayushgupta74" /></a> </p>
 
-- 👨‍💻 I’m currently working on my skill improvement.
+- 👨‍💻 I’m currently improving my technological skills.
 
 - 📧 My email : **ayush2362000@gmail.com**
 

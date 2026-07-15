@@ -19,7 +19,7 @@ I am a software engineer focused on the intersection of **AI, Deep Learning, and
 - 🤖 **Focus Area:** Building Computer Vision pipelines, CNNs, and deploying AI models.
 - ☁️ **Cloud:** Experienced in AWS and Docker for containerized AI deployment.
 - 🎓 **Goal:** To bridge the gap between experimental model research and production-grade applications.
-- 📧 **Contact:** [ayush2362000@gmail.com](mailto:ayush2362000@gmail.com)
+- 📧 **Contact:** [connecttoayushg@gmail.com](mailto:connecttoayushg@gmail.com)
 
 ---
 
